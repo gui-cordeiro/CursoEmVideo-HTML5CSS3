@@ -1,0 +1,24 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+
+body{
+    margin-top: 42px;
+}
+
+#cabecalho{
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 5px 0px;
+    margin: auto;
+    width: 100%;
+    background-color: #0004ff;
+}
+
+#titlecabecalho{
+    text-align: center;
+    font: normal 10pt 'Comfortaa';
+    color: white;
+    margin: 0;
+    padding: 0 0 0 15px;
+}
