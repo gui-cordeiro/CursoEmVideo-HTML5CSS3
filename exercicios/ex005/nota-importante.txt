@@ -1,0 +1,3 @@
+Por conta de uma confusão do professor, o "Exercício 005" foi pulado nas vídeo-aulas, pois se tratava de um exercício de inserir emojis na página HTML (já concluído em exercício anterior).
+
+Favor pular diretamente para o "Exercício 006".
