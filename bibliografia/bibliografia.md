@@ -15,7 +15,7 @@ Abaixo encontra-se as referências e documentações oficiais sobre HTML5 e CSS3
 | <div align="center">[W3Schools](https://www.w3schools.com/)</div> | <div align="center">Refsnes Data</div> |<div align="center">❌</div>|
 
 ## 3) Livros referentes ao HTML5 e às CSS3
-Abaixo encontra-se os livros recomendados para eventuais consultas:
+Abaixo encontra-se os livros sobre HTML5 e CSS3 recomendados para eventuais consultas:
 
 |Nome da Bibliografia|Edição|Autor(a)|Editora|Tradução em PT-BR|
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ Abaixo encontra-se os livros recomendados para eventuais consultas:
 |<div align="center">[Smashing CSS: Professional<br>Techniques for Modern Layout](https://www.amazon.com.br/Smashing-CSS-Professional-Techniques-Modern/dp/047068416X)</div>|<div align="center">1ª Edição</div>|<div align="center">Eric Meyer</div>|<div align="center">Bookman</div>|<div align="center">❌</div>|
   
 ## 4) Livros referentes à design gráfico
-Abaixo encontra-se os livros recomendados para eventuais consultas:
+Abaixo encontra-se os livros sobre design gráfico, psicologia das cores e tipografia recomendados para eventuais consultas:
 
 |Nome da Bibliografia|Edição|Autor(a)|Editora|Tradução em PT-BR|
 |---|---|---|---|---|
